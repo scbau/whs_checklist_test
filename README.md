@@ -4,4 +4,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Staging for page views.
+Staging for page views. For development only.
